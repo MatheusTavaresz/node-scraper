@@ -14,5 +14,5 @@ O Node Game Data Scraper é uma ferramenta simples e eficiente de linha de coman
 Certifique-se de ter o Node.js instalado em sua máquina. Clone o repositório para a sua máquina local usando:
 
 ```bash
-git clone https://github.com/seu-usuario/node-game-data-scraper.git
+git clone (https://github.com/MatheusTavaresz/node-scraper.git)
 cd node-game-data-scraper
